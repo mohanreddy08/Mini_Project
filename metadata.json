@@ -1,0 +1,99 @@
+{
+    "student_name": "DESAM KOWSHIK REDDY",
+    "roll_number": "23761A0584",
+    "project_title": "Used Car Price Prediction System (Indian Market)",
+    "current_year": 2026,
+    "brands": [
+        "Honda",
+        "Hyundai",
+        "Kia",
+        "Mahindra",
+        "Maruti Suzuki",
+        "Tata",
+        "Toyota"
+    ],
+    "models_by_brand": {
+        "Honda": [
+            "Amaze",
+            "City",
+            "Civic",
+            "Elevate",
+            "WR-V"
+        ],
+        "Hyundai": [
+            "Creta",
+            "Grand i10",
+            "Tucson",
+            "Venue",
+            "Verna",
+            "i20"
+        ],
+        "Kia": [
+            "Carens",
+            "Carnival",
+            "EV6",
+            "Seltos",
+            "Sonet"
+        ],
+        "Mahindra": [
+            "Bolero",
+            "Scorpio-N",
+            "Thar",
+            "XUV300",
+            "XUV700"
+        ],
+        "Maruti Suzuki": [
+            "Baleno",
+            "Brezza",
+            "Dzire",
+            "Ertiga",
+            "Swift",
+            "Wagon R"
+        ],
+        "Tata": [
+            "Altroz",
+            "Harrier",
+            "Nexon",
+            "Punch",
+            "Safari",
+            "Tiago"
+        ],
+        "Toyota": [
+            "Camry",
+            "Fortuner",
+            "Glanza",
+            "Innova Crysta",
+            "Urban Cruiser"
+        ]
+    },
+    "fuel_types": [
+        "CNG",
+        "Diesel",
+        "Electric",
+        "Petrol"
+    ],
+    "seller_types": [
+        "Dealer",
+        "Individual"
+    ],
+    "transmissions": [
+        "Automatic",
+        "Manual"
+    ],
+    "owners": [
+        0,
+        1,
+        2
+    ],
+    "feature_ranges": {
+        "present_price_min": 5.54,
+        "present_price_max": 65.42,
+        "kms_driven_min": 5162,
+        "kms_driven_max": 150000,
+        "year_min": 2012,
+        "year_max": 2025,
+        "selling_price_min": 1.06,
+        "selling_price_max": 55.53
+    },
+    "best_model": "Random Forest"
+}
